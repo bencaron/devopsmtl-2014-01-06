@@ -38,6 +38,8 @@ wget -qO- https://raw.github.com/progrium/dokku/v0.2.1/bootstrap.sh | sudo DOKKU
 
 And the looooooong list of stuff it does (about 5 minutes on a decent connection):
 
+Chef folks will say it's not idempotent enough ;) (double-triple apt-get update for exemple)
+
 ```bash
 root@vagrant:~# wget -qO- https://raw.github.com/progrium/dokku/v0.2.1/bootstrap.sh | sudo DOKKU_TAG=v0.2.1 bash
 Ign http://us.archive.ubuntu.com precise InRelease
