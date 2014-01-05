@@ -6,4 +6,4 @@
 
 [Setting up](/configure-your-domain)
 
-[Adding a site](/add-a-site)
+[Adding an app](/add-an-app)
