@@ -29,3 +29,10 @@ Processing triggers for man-db ...
 Setting up python-pycurl (7.19.0-4ubuntu3) ...
 Setting up python-software-properties (0.82.7.6) ...
 ```
+
+## Install Dokku itself
+
+```bash
+wget -qO- https://raw.github.com/progrium/dokku/v0.2.1/bootstrap.sh | sudo DOKKU_TAG=v0.2.1 bash
+```
+
