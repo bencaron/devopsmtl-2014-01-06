@@ -4,7 +4,7 @@ Starting from a 12.04 Ubuntu image:
 
 Install python-software-properties (for 12.04):
 
-```shell
+```bash
 root@vagrant:~# apt-get install -y python-software-properties
 Reading package lists... Done
 Building dependency tree
