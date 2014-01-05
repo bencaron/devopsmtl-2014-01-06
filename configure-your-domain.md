@@ -15,6 +15,7 @@ vagrant.vm
 root@vagrant:/home/dokku# vim HOSTNAME
 root@vagrant:/home/dokku# cat HOSTNAME
 exemple.com
+```
 
 ## Add a public key
 
