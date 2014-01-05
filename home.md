@@ -4,4 +4,6 @@
 
 [Installation](/traces-install)
 
+[Setting up](/configure-your-domain)
+
 [Adding a site](/add-a-site)
