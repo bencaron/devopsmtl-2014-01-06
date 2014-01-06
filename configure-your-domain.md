@@ -12,8 +12,8 @@ root@vagrant:/home/dokku# ls
 HOSTNAME  VERSION
 root@vagrant:/home/dokku# cat HOSTNAME
 vagrant.vm
-root@vagrant:/home/dokku# vim HOSTNAME
-root@vagrant:/home/dokku# cat HOSTNAME
+root@vagrant:/home/dokku# vim VHOST
+root@vagrant:/home/dokku# cat VHOST
 exemple.com
 ```
 
