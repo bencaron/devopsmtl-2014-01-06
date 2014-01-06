@@ -8,7 +8,7 @@
 
 Let's quote the project's readme:
 
-*Things this project won't do*
+### Things this project won't do
 
 * Multi-host. Not a huge leap, but this isn't the project for it. Have a look at Flynn.
 * Multitenancy. It's ready for it, but again, have a look at Flynn.
