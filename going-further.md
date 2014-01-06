@@ -2,7 +2,7 @@
 
 ## Environments supported
 
-Follow Heroku convention about application buildpack.
+Dokku will detect from simple heuristics the langage/platform of the code pushed to it. It follow Heroku conventions around application buildpack, e.g. by using a [Procfile](https://devcenter.heroku.com/articles/procfile) file.
 
 ### Buildsteps
 
@@ -24,4 +24,13 @@ You can also build your own: follow the instrutions!
 
 ## Plugins
 
-https://github.com/progrium/dokku/wiki/Plugins
+Dokku makes a somewhat heavy uses of [plugins](https://github.com/progrium/dokku/wiki/Plugins); the default nginx frontend itself is made with a plugin!
+
+There is a bunch of plugins to extend Dokku. Installation is a bit manual but straightforward:
+
+```bash
+cd /var/lib/dokku/plugins
+git clone <git url>
+dokku plugins-install
+```
+Plugins work as hooks that act on specific events (install, post-deploy, post-delete, etc.).
