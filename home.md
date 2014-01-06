@@ -25,4 +25,4 @@ Let's quote the project's readme:
 
 [Going further](/going-further)
 
-[DigitalOcean](/digital-ocean)
+Easy installation on [DigitalOcean](https://www.digitalocean.com/community/articles/how-to-use-the-digitalocean-dokku-application)
