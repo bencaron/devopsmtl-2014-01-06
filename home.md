@@ -24,3 +24,5 @@ Let's quote the project's readme:
 [Adding an app](/add-an-app)
 
 [Going further](/going-further)
+
+[DigitalOcean](/digital-ocean)
