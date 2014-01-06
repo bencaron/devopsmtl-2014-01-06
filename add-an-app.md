@@ -151,8 +151,18 @@ Total 313 (delta 15), reused 313 (delta 15)
 -----> Deploying node ...
 -----> Cleaning up ...
 =====> Application deployed:
-       http://exemple.com:49153
+       http://node.exemple.com
 
 To dokku@exemple.com:node
  * [new branch]      master -> master
+```
+
+## Docker side...
+
+You now have a new container:
+
+```bash
+root@vagrant:/vagrant# docker ps
+CONTAINER ID        IMAGE               COMMAND                CREATED             STATUS              PORTS                     NAMES
+dc510d3af595        app/node:latest     /bin/bash -c /start    14 minutes ago      Up 14 minutes       0.0.0.0:49154->5000/tcp   prickly_albattani
 ```
