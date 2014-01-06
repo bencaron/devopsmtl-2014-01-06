@@ -1,4 +1,4 @@
-# Add an simple application
+# Add a simple application
 
 Following on Dokku [installation exemple](https://github.com/progrium/dokku#deploy-an-app), lets install a [simple Nodejs application](https://github.com/heroku/node-js-sample):
 
