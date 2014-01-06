@@ -166,3 +166,6 @@ root@vagrant:/vagrant# docker ps
 CONTAINER ID        IMAGE               COMMAND                CREATED             STATUS              PORTS                     NAMES
 dc510d3af595        app/node:latest     /bin/bash -c /start    14 minutes ago      Up 14 minutes       0.0.0.0:49154->5000/tcp   prickly_albattani
 ```
+
+## Browser side:
+
