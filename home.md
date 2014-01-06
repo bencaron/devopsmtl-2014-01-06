@@ -4,6 +4,8 @@
 
 ## What is Dokku
 
+Dokku is a very simple but powerfull PaaS implementation à-la Heroku that you can run in minutes on your own host.
+
 ## What it's not
 
 Let's quote the project's readme:
