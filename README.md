@@ -2,7 +2,21 @@
 
 Lightning presention of Dokku.
 
-You can start [here](home.md)
+
+You can start [here](home.md) ( This was done with Gollum, links are note working on github. See below) 
+
+Go directly to the steps followed:
+
+[Installation](/traces-install.md)
+
+[Setting up](/configure-your-domain.md)
+
+[Adding an app](/add-an-app.md)
+
+[Going further](/going-further.md)
+
+Easy installation on [DigitalOcean](https://www.digitalocean.com/community/articles/how-to-use-the-digitalocean-dokku-application)
+
 
 ## Places to visits:
 
